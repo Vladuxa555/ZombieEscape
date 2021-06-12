@@ -6,12 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb6a73d0-0092-469f-b7cb-cf8df667365e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/ExternalContent/Effects/Meshes/Weapon/SM_MuzzleCone.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ExternalContent/Effects/Meshes/Weapon/SM_MuzzleCone.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ExternalContent/Weapons/Launcher.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ExternalContent/Weapons/Launcher.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ExternalContent/Weapons/Rifle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ExternalContent/Weapons/Rifle.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Polygon_BattleRoyale/Meshes/Characters/SK_Chr_ToplessMale_01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Polygon_BattleRoyale/Meshes/Characters/SK_Chr_ToplessMale_01.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barrel_02.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Polygon_BattleRoyale/Meshes/Props/SM_Prop_Barrel_02.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Polygon_BattleRoyale/ParticleFX/SM_Env_Rubble_Stone_01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Polygon_BattleRoyale/ParticleFX/SM_Env_Rubble_Stone_01.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShootThemUp/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShootThemUp/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShootThemUp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShootThemUp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/Maps/Demonstration_Menu.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Maps/Demonstration_Menu.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,14 +19,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_4.26/Engine/Source/Editor/DetailCustomizations/Private/WindowsTargetSettingsDetails.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/ALAudio/Private/ALAudioSource.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_4.26/Engine/Source/UE4Game.Target.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_4.26/Engine/Source/Editor/ContentBrowser/Private/SContentBrowser.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_4.26/Engine/Source/Editor/MainFrame/Private/Frame/MainFrameActions.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Private/Components/ActorComponent.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../Program Files/Epic Games/UE_4.26/Engine/Source/Editor/DetailCustomizations/Private/LinuxTargetSettingsDetails.cpp" root0="FORCE_HIGHLIGHTING" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -54,6 +51,8 @@
       <option value="$PROJECT_DIR$/Source/ShootThemUp/Public/UI/STUPlayerStatRowWidget.h" />
       <option value="$PROJECT_DIR$/Source/ShootThemUp/Private/STUGameModeBase.cpp" />
       <option value="$PROJECT_DIR$/Source/ShootThemUp/Private/UI/STUPlayerStatRowWidget.cpp" />
+      <option value="$PROJECT_DIR$/Source/ShootThemUp/Private/FloatingPlatform.cpp" />
+      <option value="$PROJECT_DIR$/Source/ShootThemUp/Public/FloatingPlatform.h" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1pObA8nfJteRb2mcxNczmBjI1Kq" />
@@ -299,6 +298,8 @@
       <workItem from="1615309462563" duration="274000" />
       <workItem from="1615313515040" duration="935000" />
       <workItem from="1615331058230" duration="7630000" />
+      <workItem from="1623532119323" duration="1814000" />
+      <workItem from="1623535315634" duration="981000" />
     </task>
     <servers />
   </component>

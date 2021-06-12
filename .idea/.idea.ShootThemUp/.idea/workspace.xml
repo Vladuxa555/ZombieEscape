@@ -6,10 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb6a73d0-0092-469f-b7cb-cf8df667365e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShootThemUp/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShootThemUp/.idea/riderModule.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ShootThemUp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShootThemUp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Levels/Maps/Demonstration_Menu.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Maps/Demonstration_Menu.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +50,8 @@
       <option value="$PROJECT_DIR$/Source/ShootThemUp/Private/UI/STUPlayerStatRowWidget.cpp" />
       <option value="$PROJECT_DIR$/Source/ShootThemUp/Private/FloatingPlatform.cpp" />
       <option value="$PROJECT_DIR$/Source/ShootThemUp/Public/FloatingPlatform.h" />
+      <option value="$PROJECT_DIR$/Source/ShootThemUp/Public/FloorSwitch.h" />
+      <option value="$PROJECT_DIR$/Source/ShootThemUp/Private/FloorSwitch.cpp" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1pObA8nfJteRb2mcxNczmBjI1Kq" />
@@ -299,7 +298,7 @@
       <workItem from="1615313515040" duration="935000" />
       <workItem from="1615331058230" duration="7630000" />
       <workItem from="1623532119323" duration="1814000" />
-      <workItem from="1623535315634" duration="981000" />
+      <workItem from="1623535315634" duration="2403000" />
     </task>
     <servers />
   </component>
